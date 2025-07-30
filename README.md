@@ -1,7 +1,7 @@
 # Eco-Friendly Biodegradable Plastic Research and Development
 This GitHub contains all relevant files used during/created after a research project regarding biodegradable plastics.
 ## Project Members
-Teagan Tobias – High School Senior at time (Girls Preparatory School, Chattanooga)
+Teagan Tobias – High School Senior at time (Girls Preparatory School; Chattanooga, TN)
 ## Project Summary
 Marine environments (and others) are in danger due to human activities, one of which being plastic pollution. Eight million tons of plastic end up in the ocean every single year and is the largest threat to marine life. These plastics release harmful chemicals, affecting oxygen levels and acidity, as well as damaging habitats like coral reefs and underwater meadows. As long as we're harming the ocean, we are harming ourselves, too. The plastic we throw into the ocean doesn't disappear –– it returns to our plates as toxins in the food we eat. Responsibility isn't optional.
 
